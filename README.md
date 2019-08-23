@@ -4,6 +4,7 @@ remote device controller in aya project to home automation. It allow control rem
 
 ## composed
 
+* arduino micro
 * DHT22, BMP280 sensors (altitude, pressure, temperature, humidity)
 * 433mHz radio receiver and transmitter (radio-controlled devices)
 * hc12 serial radio receiver and transmitter (alarms, kettle,...)
