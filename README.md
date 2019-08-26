@@ -2,6 +2,11 @@
 
 remote device controller in aya project to home automation. It allow control remote devices and aya's assistant module
 
+
+<p align="center">
+  <img src="./3D model/3d.png" height="300">
+</p>
+
 ## composed
 
 * arduino micro

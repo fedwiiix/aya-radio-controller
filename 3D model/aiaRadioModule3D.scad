@@ -6,7 +6,7 @@ epsParoie = 1.5;
 epsParoie2 = 2*epsParoie;
 
 
-//piece1();
+piece1();
 
 piece2();
 
